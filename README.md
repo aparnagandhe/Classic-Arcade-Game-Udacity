@@ -2,4 +2,4 @@
 
 You can find my project [here](https://aparnagandhe.github.io/Classic-Arcade-Game-Udacity/)
 
-Use the arrows to play the game
+Use the arrow keys to play the game
